@@ -19,7 +19,7 @@
 
 ### :iphone: Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([niloysaha173@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloysaha173@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloy-saha-594558201/)
 [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
