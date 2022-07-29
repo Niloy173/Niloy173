@@ -8,7 +8,7 @@
 </div>
  -->
   
-### :woman_technologist: Ambitious, Problem Solver and Lifelong Learner :v:  
+### :man_technologist: Ambitious, Problem Solver and Lifelong Learner :v:  
 
 - 🌱 Exploring projects & Learn more about web3
 - 👯 looking to collaborate on other content creator
