@@ -8,7 +8,7 @@
   
 ### :man_technologist: Ambitious, Problem Solver and Lifelong Learner :v:  
 
-- 🌱 Exploring projects & Learn more about web3
+- 🌱 Exploring projects & Learning more about web3
 - 👯 looking to collaborate on other content creator
 - 🌬️ I solve problems on various online judge like HackerRank, Beecrowd, Codeforce etc.
 - 📬 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloy-saha-594558201/)
