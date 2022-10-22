@@ -37,8 +37,6 @@
 
 </div>
 
-<br>
-
 <!-- <details open>
   <summary><b>More about me</b></summary>
 <br>
