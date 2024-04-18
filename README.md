@@ -46,6 +46,20 @@
 
  -->
 
+### :white_check_mark: Active Tools & Technologies
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"       title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
+  title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"
+  title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+
+</div>
+
 ### :key: Check out my work
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/niloy173)
@@ -78,4 +92,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!---
+
+  https://github.com/Ileriayo/markdown-badges
+  https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+  https://www.sitepoint.com/github-profile-readme/
+  https://github.com/devicons/devicon
+
 -->
