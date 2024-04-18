@@ -50,13 +50,13 @@
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-  title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"       title="Angular" alt="Angular" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="30" height="30"/>&nbsp;
+  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"       title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
-  title="Oracle" alt="Oracle" width="30" height="30"/>&nbsp;
+  title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"
-  title="Azure DevOps" alt="Azure DevOps" width="30" height="30"/>&nbsp;
+  title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
 
 </div>
 
